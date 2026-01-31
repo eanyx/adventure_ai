@@ -1,13 +1,15 @@
 # adventure_ai
 Adventure game with AI engine
 
+A game with AI generated dialog and adventure creation.
+
 By eanyx (olivier.michel.92@gmail.com)
 v 0.1 - 10 jan 2026 - Draft
 
-Install free local AI : ollama
+Install free local AI engine: ollama
 
 Download for Windows, MacOS or Linux on:
-ollama.comm
+https://ollama.comm
 
 Launch the model (may need ram, tested on Ubuntu 24.04 with 4GB of Ram):
 ollama run llama3.2
