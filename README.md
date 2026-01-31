@@ -12,12 +12,12 @@ Download for Windows, MacOS or Linux on:
 https://ollama.comm
 
 Launch the model (may need ram, tested on Ubuntu 24.04 with 4GB of Ram):  
-ollama run llama3.2
+> ollama run llama3.2
 
 Install python library:  
-pip install ollama
+> pip install ollama
 
 Launch game with:  
-python ./main_ollama.py
+> python ./main_ollama.py
 
 Enjoy !
