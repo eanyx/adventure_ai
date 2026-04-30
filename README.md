@@ -18,6 +18,6 @@ Install python library:
 > pip install ollama
 
 Launch game with:  
-> python ./main_ollama.py
+> python ./adventure_ai.py
 
 Enjoy !
