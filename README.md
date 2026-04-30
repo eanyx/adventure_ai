@@ -9,7 +9,7 @@ v 0.1 - 1 feb 2026 - Draft
 Install free local AI engine: ollama
 
 Download for Windows, MacOS or Linux on:  
-https://ollama.comm
+https://ollama.com
 
 Launch the model (may need ram, tested on Ubuntu 24.04 with 4GB of Ram):  
 > ollama run llama3.2
