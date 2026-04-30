@@ -33,7 +33,7 @@ def play_game():
 
         try:
             # Call Ollama
-            response = ollama.chat(model='llama3', messages=messages)
+            response = ollama.chat(model='llama3.2', messages=messages)
             
             # Get the AI's response
             dm_response = response['message']['content']
